@@ -76,9 +76,9 @@ Result: Achieved ~88% accuracy with +12% gain using sentiment integration
 
 5. seaborn
 
-##Author
-###Sabbir Ahmad
-###LinkedIn | GitHub
+# Author
+### Sabbir Ahmad
+### LinkedIn | GitHub
 
 ####Feel free to fork or star this repo if it helps you. Contributions welcome!
 
