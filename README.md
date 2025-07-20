@@ -78,7 +78,9 @@ Result: Achieved ~88% accuracy with +12% gain using sentiment integration
 
 # Author
 ### Sabbir Ahmad
-### LinkedIn | GitHub
+### [Connect on LinkedIn](https://linkedin.com/in/sabbirahmad653) | [Connect on Facebook](https://www.facebook.com/sabbir.ahmad.443854/)
+
+
 
 ####Feel free to fork or star this repo if it helps you. Contributions welcome!
 
