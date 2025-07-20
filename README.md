@@ -82,5 +82,5 @@ Result: Achieved ~88% accuracy with +12% gain using sentiment integration
 
 
 
-####Feel free to fork or star this repo if it helps you. Contributions welcome!
+#### <i style="color:gray;">Feel free to fork or star this repo if it helps you.</i><br><b style="color:green;">Contributions welcome!</b>
 
