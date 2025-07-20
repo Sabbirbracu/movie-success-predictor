@@ -32,10 +32,10 @@ A machine learning project that predicts whether a movie is likely to be success
 ```bash
 movie-success-predictor/
 │
-├── data/                  # Sample or placeholder movie metadata
+├── data/                  # movie metadata
 ├── models/                # Saved RandomForestClassifier model (model.pkl)
-├── notebooks/             # Jupyter/Colab notebook
-│   └── movie_success_predictor.ipynb
+├── notebooks/             
+│   └── movie_success_predictor.ipynb # Jupyter/Colab notebook
 ├── requirements.txt       # List of dependencies
 └── README.md              # Documentation
 
@@ -55,7 +55,7 @@ cd movie-success-predictor
 pip install -r requirements.txt
 ```
 ## Open the notebook in Jupyter or Google Colab
-notebooks/movie_success_predictor.ipynb
+```notebooks/movie_success_predictor.ipynb```
 Run all cells to preprocess data, train model, and evaluate.
 
 ### Output Sample
@@ -66,15 +66,15 @@ Threshold Logic: IMDb rating ≥ 7 is classified as “Good”
 Result: Achieved ~88% accuracy with +12% gain using sentiment integration
 
 ### Dependencies
-1. pandas
+- **pandas**
 
-2. numpy
+- **numpy**
 
-3. scikit-learn
+- **scikit-learn**
 
-4. matplotlib
+- **matplotlib**
 
-5. seaborn
+- **seaborn**
 
 # Author
 ### Sabbir Ahmad
